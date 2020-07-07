@@ -6,7 +6,7 @@ npm i string-similar --save
 
 ***Use***
 ```js
-const { getSameLength, getSameString } = require('./index');
+const { getSameLength, getSameString } = require('string-similar');
 const strs = [
     '/a/b/c',
     '/a/b/c/1',
